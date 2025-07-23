@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+langchain-pinecone
+pinecone
+pypdf
+python-docx
+doc2txt  
+rank_bm25
+unstructured
+python-pptx
+python-dotenv
+aiohttp
